@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dogualpay
+- 👋 Hi, I’m Doğu.
 - 👀 I’m interested in embedded systems and operating systems.
 - 🌱 I’m currently working on some embedded system projets.
 
